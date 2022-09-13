@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /docs/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://info.zigzag.exchange/sitemap.xml
